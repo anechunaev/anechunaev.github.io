@@ -13,10 +13,10 @@ Passionate about clean architecture, developer tooling, and mentoring engineerin
 
 
 ## 🧰 Tech Stack
-**Frontend:** React, Vue.js, TypeScript, Webpack, Vite and many other 
-**Backend:** Node.js, Express, Go
-**Cloud & DevOps:** Docker, GitHub Actions, Gitlab Pipelines, AWS  
-**Other:** Testing, CI/CD, system design, team leadership
+- **Frontend:** React, Vue.js, TypeScript, Webpack, Vite and many other 
+- **Backend:** Node.js, Express, Go
+- **Cloud & DevOps:** Docker, GitHub Actions, Gitlab Pipelines, AWS  
+- **Other:** Testing, CI/CD, system design, team leadership
 
 ## 💡 Links
 
