@@ -11,7 +11,6 @@ Passionate about clean architecture, developer tooling, and mentoring engineerin
 - 🧪 Love experimenting with architecture, frameworks, and performance  
 - 🤝 Open-source contributor & advocate  
 
----
 
 ## 🧰 Tech Stack
 **Frontend:** React, Vue.js, TypeScript, Webpack, Vite and many other 
@@ -19,7 +18,7 @@ Passionate about clean architecture, developer tooling, and mentoring engineerin
 **Cloud & DevOps:** Docker, GitHub Actions, Gitlab Pipelines, AWS  
 **Other:** Testing, CI/CD, system design, team leadership
 
----
+## 💡 Links
 
 Check out my [latest projects](https://github.com/anechunaev)
 
