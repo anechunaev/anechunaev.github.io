@@ -6,7 +6,7 @@ Passionate about clean architecture, developer tooling, and mentoring engineerin
 
 ## 🚀 About Me
 - 💼 Engineering Manager / Senior Web Engineer  
-- 🌍 Based in **Linköping, Sweden**  
+- 🇸🇪 Based in **Linköping, Sweden**  
 - 🛠️ Building modern, reliable web applications  
 - 🧪 Love experimenting with architecture, frameworks, and performance  
 - 🤝 Open-source contributor & advocate  
@@ -23,4 +23,4 @@ Passionate about clean architecture, developer tooling, and mentoring engineerin
 
 Check out my [latest projects](https://github.com/anechunaev)
 
-You can [sponsor](https://github.com/sponsors/anechunaev) any project or even request [tool development or consultation](https://github.com/sponsors/anechunaev)
+❤️ You can [sponsor](https://github.com/sponsors/anechunaev) any project or even request [tool development or consultation](https://github.com/sponsors/anechunaev)
