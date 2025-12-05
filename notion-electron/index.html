@@ -116,10 +116,10 @@ title: Notion Electron – Desktop App for Linux
 		}
 
 		.logo {
-			width: 60px;
-			height: 60px;
+			width: 128px;
+			height: 128px;
 			display: block;
-			margin: 0 auto;
+			margin: 0 auto 20px;
 		}
 
 		.hero p {
@@ -254,6 +254,11 @@ title: Notion Electron – Desktop App for Linux
 			.stores {
 				flex-direction: row;
 			}
+
+			.logo {
+				width: 64px;
+				height: 64px;
+			}
 		}
 
 		@media (min-width: 576px) {
@@ -310,15 +315,11 @@ title: Notion Electron – Desktop App for Linux
 <body>
 	<header class="hero">
 		<h1>
-			<picture>
-				<source media="(prefers-color-scheme: dark)" srcset="./images/logo-small-light.svg" />
-				<source media="(prefers-color-scheme: light)" srcset="./images/logo-small-dark.svg" />
-				<img class="logo" src="./images/logo-small.svg" alt="Logo" />
-			</picture>
+			<img class="logo" src="./images/logo.svg" alt="Logo" />
 			Notion Electron
 		</h1>
 		<p>
-			Unofficial desktop application for Notion – native experience on Linux
+			Unofficial desktop application for&nbsp;Notion&nbsp;– native experience on&nbsp;Linux
 		</p>
 		<div class="stores">
 			<a href="https://github.com/anechunaev/notion-electron/releases/download/v{{ site.notion_electron_version }}/notion-electron-{{ site.notion_electron_version }}.x86_64.AppImage" class="banner" title="Download as AppImage">
